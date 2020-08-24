@@ -14,7 +14,6 @@ import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap'
 			</div>
 		)
     }
-
     function RenderComments({comments}) {
 		return (
 			<div className = 'col-12 col-md-5 m-1'>
@@ -43,9 +42,8 @@ import { Card, CardImg, CardText, CardBody, CardTitle } from 'reactstrap'
 		)}
 	else {
 		return (
-		<div></div>
-		)
-			
+			<div></div>
+			)
 		}
 	}
 
