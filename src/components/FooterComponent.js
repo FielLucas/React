@@ -19,12 +19,12 @@ function Footer(props) {
                     <h5>Our Address</h5>
                     <address>
 						121, Clear Water Bay Road<br />
-						Clear Water Bay, Kowloon<br />
-						HONG KONG<br />
+						Quezon City, NCR<br />
+						Philippines<br />
 						<i className="fa fa-phone fa-lg"></i>: +693 5114 44212<br />
 						<i className="fa fa-fax fa-lg"></i>: +693 5114 4421<br />
 						<i className="fa fa-envelope fa-lg"></i>: <a href="mailto:confusion@food.net">
-							confusion@food.net</a>
+							Deepsky@food.net</a>
                     </address>
                 </div>
                 <div className="col-12 col-sm-4 align-self-center">
