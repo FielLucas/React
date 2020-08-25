@@ -21,14 +21,15 @@ function Contact(props) {
                 </div>
                 <div className="col-12 col-sm-4 offset-sm-1">
                         <h5>Our Address</h5>
-                        <address>
-                        121, Clear Water Bay Road<br />
-                        Clear Water Bay, Kowloon<br />
-                        HONG KONG<br />
-                        <i className="fa fa-phone"></i>: +852 1234 5678<br />
-                        <i className="fa fa-fax"></i>: +852 8765 4321<br />
-                        <i className="fa fa-envelope"></i>: <a href="mailto:confusion@food.net">confusion@food.net</a>
-                        </address>
+                    <address>
+						121, Clear Water Bay Road<br />
+						Quezon City, NCR<br />
+						Philippines<br />
+						<i className="fa fa-phone fa-lg"></i>: +693 5114 44212<br />
+						<i className="fa fa-fax fa-lg"></i>: +693 5114 44212<br />
+						<i className="fa fa-envelope fa-lg"></i>: <a href="mailto:confusion@food.net">
+							Deepsky@food.net</a>
+                    </address>
                 </div>
                 <div className="col-12 col-sm-6 offset-sm-1">
                     <h5>Map of our Location</h5>
